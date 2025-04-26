@@ -8,8 +8,6 @@ url="https://github.com/lieonlion/crunched_icon_theme"
 license=('GPL')
 makedepends=()
 depends=()
-# conflicts=('') # None
-replaces=('crunched-icon-pack')
 source=("https://github.com/lieonlion/crunched_icon_theme/archive/refs/heads/main.zip")
 sha256sums=("0ba5cbf8de5b7edf1efffa7e476e827ee7f069752a6b87559c975e46b3af0f8a")
 
